@@ -1,0 +1,18 @@
+#container{
+     border: 1px solid black;
+     width:30%;
+     text-align: center;
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     margin: auto;
+     margin-top: 4vw;
+}
+#searchBar{
+    width:30%;
+    text-align: center;
+    margin-left: 32vw;
+    height: 2vw;
+}
+#searchBtn{
+    height: 2.5vw;
+    width:5vw;
+}
